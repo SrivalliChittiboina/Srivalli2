@@ -8,8 +8,6 @@
 
 🤝 Whether you're a developer, movie enthusiast, or just passing by, let's connect and collaborate!
 
-You can copy and paste this directly into your GitHub profile's README. Remember, GitHub uses Markdown for formatting, so the ** around "Srivalli" will make it bold. Adjust as necessary to suit your preferences.
-
 
 
 
